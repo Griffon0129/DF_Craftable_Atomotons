@@ -11,7 +11,7 @@ I added this pointless position, they require and demand exactly the same as the
 		[APPOINTED_BY:COUNT]
 		[APPOINTED_BY:BARON]
 		[APPOINTED_BY:MAYOR]
-		[PRECEDENCE:65]
+		[PRECEDENCE:300]
 		[SPECIAL_BURIAL]
 		[PUNISHMENT_EXEMPTION]
 		[FLASHES]
