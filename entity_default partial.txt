@@ -1,0 +1,3 @@
+add these to the entity_default.txt with all the other permitted reactions so you'll be able to make the atomotons in game
+	
+	[PERMITTED_REACTION:CREATE_SPIDER]
